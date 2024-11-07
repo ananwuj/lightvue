@@ -1,6 +1,6 @@
 <template>
   <div style="width: 100%">
-    <LvProgressBar :value="35" color="#0288d1" />
+    <LvProgressBar :value="35" color="#006CE1" />
     <br />
     <LvProgressBar :value="value" :showValue="false" color="#38b2ac" />
     <br />
