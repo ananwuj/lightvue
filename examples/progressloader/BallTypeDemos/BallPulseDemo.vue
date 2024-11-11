@@ -2,7 +2,7 @@
   <div class="demo__wrapper">
     <lv-loader type="ball-pulse" color="#38b2ac" />
     <lv-loader type="ball-pulse" />
-    <lv-loader type="ball-pulse" :scale="2" />
+    <lv-loader type="ball-pulse" :scale="3" />
   </div>
 </template>
 
